@@ -43,7 +43,7 @@ img {
   text-transform: uppercase;
 }
 
-button {
+.btn {
   padding: 10px;
   background-color: rgb(177, 209, 179);
   color: black;
