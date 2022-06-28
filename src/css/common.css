@@ -46,6 +46,8 @@ img {
 button {
   padding: 10px;
   background-color: rgb(177, 209, 179);
+  color: black;
+  font-weight: 600;
   border: none;
 }
 
